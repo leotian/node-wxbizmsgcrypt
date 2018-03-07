@@ -1,6 +1,6 @@
 {
   "name": "node-wxbizmsgcrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微信企业号wxbizmsgcrypt加解密库的node版本",
   "main": "index.js",
   "scripts": {
