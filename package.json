@@ -1,0 +1,31 @@
+{
+  "name": "node-wxbizmsgcrypt",
+  "version": "1.0.0",
+  "description": "微信企业号wxbizmsgcrypt加解密库的node版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leotian/node-wxbizmsgcrypt.git"
+  },
+  "keywords": [
+    "wechat",
+    "node",
+    "wxbizmsgcrypt"
+  ],
+  "author": {
+    "name": "leotian",
+    "email": "leotiann@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leotian/node-wxbizmsgcrypt/issues"
+  },
+  "homepage": "https://github.com/leotian/node-wxbizmsgcrypt#readme",
+  "dependencies": {
+    "mcrypt": "^0.1.13",
+    "xml2js": "^0.4.19"
+  }
+}
